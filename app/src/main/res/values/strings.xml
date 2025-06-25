@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Products</string>
+    <string name="browse_products">Browse products</string>
+    <string name="fill_form">Fill Form</string>
+    <string name="exit">Exit</string>
+    <string name="back">Back</string>
+    <string name="bad">Bad</string>
+    <string name="satisfactory">Satisfactory</string>
+    <string name="good">Good</string>
+    <string name="very_good">Very good</string>
+    <string name="excellent">Excellent</string>
+    <string name="name">Name</string>
+    <string name="number">Number</string>
+    <string name="promotional_code">Promotional code</string>
+    <string name="delivery_date">Delivery date</string>
+    <string name="rating">Rating</string>
+    <string name="submit">Submit</string>
+    <string name="date_format">dd/mm/yyyy</string>
+    <string name="invalid_name">Invalid name</string>
+    <string name="invalid_email">Invalid email</string>
+    <string name="invalid_number">Invalid number</string>
+    <string name="invalid_promotional_code">Invalid promotional code</string>
+    <string name="invalid_date">Invalid date</string>
+    <string name="invalid_rating">Invalid rating</string>
+    <string name="correct_data">Data inserted correctly</string>
+    <string name="product_image">Product image</string>
+    <string name="discount">Discount</string>
+    <string name="stock">Stock</string>
+    <string name="filter_by">Filter by...</string>
+    <string name="rating_icon">Rating icon</string>
+    <string name="list_unavailable">Product list unavailable</string>
+</resources>

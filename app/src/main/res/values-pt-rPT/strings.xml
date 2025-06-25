@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Products</string>
+    <string name="browse_products">Pesquisar produtos</string>
+    <string name="fill_form">Preencher Formulário</string>
+    <string name="exit">Sair</string>
+    <string name="back">Voltar</string>
+    <string name="bad">Mau</string>
+    <string name="satisfactory">Satisfatório</string>
+    <string name="good">Bom</string>
+    <string name="very_good">Muito bom</string>
+    <string name="excellent">Excelent</string>
+    <string name="name">Nome</string>
+    <string name="number">Número</string>
+    <string name="promotional_code">Código promocional</string>
+    <string name="delivery_date">Data de entrega</string>
+    <string name="rating">Classificação</string>
+    <string name="submit">Submeter</string>
+    <string name="date_format">dd/mm/aaaa</string>
+    <string name="invalid_name">Nome inválido</string>
+    <string name="invalid_email">Email inválido</string>
+    <string name="invalid_number">Numero inválido</string>
+    <string name="invalid_promotional_code">Código promocional inválido</string>
+    <string name="invalid_date">Data inválida</string>
+    <string name="invalid_rating">Classificação inválida</string>
+    <string name="correct_data">Dados introduzidos correctamente</string>
+    <string name="product_image">Imagem do produto</string>
+    <string name="discount">Desconto</string>
+    <string name="stock">Quantidade</string>
+    <string name="filter_by">Filtrar por...</string>
+    <string name="rating_icon">Ícone de classificação</string>
+    <string name="list_unavailable">Lista de produtos não disponível</string>
+</resources>
